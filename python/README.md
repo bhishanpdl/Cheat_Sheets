@@ -1,0 +1,2 @@
+# strftime
+![](strftime.png)
